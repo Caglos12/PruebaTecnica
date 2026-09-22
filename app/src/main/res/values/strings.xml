@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Prueba Tecnica</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_contacts">Contactos</string>
+    <string name="title_preferences">Preferencias</string>
+
+    <!-- Screen Contacts -->
+    <string name="filter_label">Filtrar:</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_visited">Visitados</string>
+    <string name="filter_not_visited">No visitados</string>
+    <string name="sort_label">Ordenar por:</string>
+    <string name="sort_code">Código</string>
+    <string name="sort_name">Nombre</string>
+    <string name="visited">Visitado</string>
+    <string name="not_visited">No visitado</string>
+    <string name="no_dialer">No hay app de teléfono disponible</string>
+    <string name="code_prefix">Código: %d</string>
+
+    <string name="title_appearance">Apariencia</string>
+    <string name="dark_mode">Modo Oscuro</string>
+
+</resources>

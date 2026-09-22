@@ -1,0 +1,46 @@
+# Archivos de aplicación compilados
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Bytecode ART/Dalvik y clases Java
+*.dex
+*.class
+
+# Archivos generados
+bin/
+gen/
+out/
+release/
+
+# Gradle y build
+.gradle/
+build/
+
+# Configuración local (ruta del SDK, etc.)
+local.properties
+
+# Logs
+*.log
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Keystores — NUNCA subir claves de firma
+*.jks
+*.keystore
+
+# Build nativo
+.externalNativeBuild
+.cxx/
+
+# Kotlin
+.kotlin/
+
+# Capturas
+/captures
+
+# macOS
+.DS_Store
